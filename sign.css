@@ -1,0 +1,37 @@
+.container{
+    box-shadow: 3px 3px 5px lightslategrey ;
+    background-color:#F7CAC9 ;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600 ;
+    width:  300px ;
+   
+    
+}
+body{
+    margin:8% auto;
+    background-color: lightsteelblue;
+   
+}
+.form-1{
+       padding: 10px ;
+
+
+
+}
+.button1{
+   margin-bottom:3% ;
+   border-radius: 20px ;
+}
+.center{
+   text-align: center;
+
+
+}
+.button2{
+    margin-bottom:3% ;
+    border-radius: 20px;  
+    margin-left: 100px ;
+
+       
+
+}
